@@ -1,1 +1,3 @@
 # Cardiomegaly_Detection
+
+Cardiomegaly is a condition where the heart is enlarged beyond its normal size due to various factors. Early detection of cardiomegaly is crucial for the effective treatment of the patient. In this paper, we propose a deep learning-based approach to automatically detect cardiomegaly from chest X- rays. Our proposed approach uses convolutional neural networks (CNN) and transfer learning algorithms for feature extraction and classification. We evaluate our approach on a publicly available dataset of chest X-rays and achieved good results using four different models in detecting cardiomegaly. Our results show that our proposed approach can provide a fast and accurate solution for cardiomegaly detection from chest X- rays.
